@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+  <channel>
+    
+      
+      <itunes:category text="Science &amp; Medicine">
+        <itunes:category text="Social Sciences" />
+      </itunes:category>
+      <itunes:category text="Education">
+        <itunes:category text="Higher Education" />
+      </itunes:category>
+      <itunes:category text="News &amp; Politics">
+      </itunes:category>
+    
+
+    <title>政见｜政正有词</title>
+    <link>http://cnpolitics.github.io/radio/meme</link>
+    <itunes:new-feed-url>http://cnpolitics.github.io/radio/meme/feed.xml</itunes:new-feed-url>
+    <atom:link href="http://cnpolitics.github.io/radio/meme/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>打开这本声音词典，花几分钟时间，轻松了解新鲜词汇和概念。政见 CNPolitics 出品。</description>
+    <itunes:summary>打开这本声音词典，花几分钟时间，轻松了解新鲜词汇和概念。政见 CNPolitics 出品。</itunes:summary>
+    <itunes:author>政见 CNPolitics.org</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://cnpolitics.github.io/radio/assets/cover/meme-cover1400-v1.0.jpg" />
+    <image>
+      <title>政见｜政正有词</title>
+      <url>http://cnpolitics.github.io/radio/assets/cover/meme-cover1400-v1.0.jpg</url>
+      <link>http://cnpolitics.github.io/radio/meme</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>政见 CNPolitics.org</itunes:name>
+      <itunes:email>webmaster@cnpolitcs.org</itunes:email>
+    </itunes:owner>
+    <managingEditor>webmaster@cnpolitcs.org (政见 CNPolitics.org)</managingEditor>
+    <copyright>政见 CNPolitics.org</copyright>
+    <itunes:subtitle>The Meme | CNPolitcs Radio</itunes:subtitle>
+    
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <pubDate>Sun, 29 Dec 2019 10:35:59 GMT</pubDate>
+    <language>zh-CN</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+    
+    <item>
+      <title>#多味听觉馆# 即将开张，喜欢播客的朋友请进</title>
+      <itunes:subtitle>播客网址迁移</itunes:subtitle>
+      <itunes:author>CNPolitics</itunes:author>
+      <link>http://cnpolitics.github.io/radio/msg/msg2/</link>
+      <guid>http://cnpolitics.github.io/radio/msg/msg2/</guid>
+      <pubDate>Mon, 17 Jul 2017 22:00:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>从 2016 年 3 月 31 日第一期节目到现在，在播客《政记干货大排档》中，不知不觉和大家一起分享了 42 期的节目。另外，我们还有其他四期节目：政常说话、政正有词、政好读书和政见讲座访谈。一路走来，我们收到了很多建议、鼓励、批评。对于未来，我们有自己的坚持，也有很多迷茫，想在这里跟大家分享。但最重要的是，我们对未来有一些想法，想要和大家分享，听听大家的建议。</p>
+<p>先跟大家聊聊一些坚持和迷茫吧。</p>
+<p>政见是一个以志愿者为主体、分散在世界各地的团队。我们在过去五年多一直坚持的，就是打破知识的高墙， 跟踪阅读全球学术界对中国政治和社会的最新研究，从中挑选出最具价值的部分呈现给大多数人。我们总是不断在尝试用更加多样的方法，声音，就是其中一样。</p>
+<p>一开始做播客的时候，其实想法特别简单，就是想通过声音的形式，和许许多多素未谋面的大家，分享原创的、走心的、有干货的内容。我们的主播并不是专业出身，一开始有许多问题，好在听众们都一一包容，还提了不少建议。在这里，真的是特别想要对现在正在听的你，说一声，谢谢。谢谢你花了生命中的这些时间，在路上、车站上、地铁中、或者其他生活的片段中，让我们的声音陪伴度过那些时光。</p>
+<p>为了让这些反馈能够更好地转化为高质量的内容，我们在接下来的过程中，打开了三条渠道。</p>
+<ul>
+<li>第一，是我们播客的公邮 <a href="mailto:&#x7a;&#104;&#x65;&#110;&#x6a;&#x69;&#97;&#110;&#x6d;&#105;&#103;&#64;&#x31;&#54;&#51;&#46;&#x63;&#111;&#109;" target="_blank" rel="noopener">&#x7a;&#104;&#x65;&#110;&#x6a;&#x69;&#97;&#110;&#x6d;&#105;&#103;&#64;&#x31;&#54;&#51;&#46;&#x63;&#111;&#109;</a>；</li>
+<li>第二，是豆瓣上的<a href="https://douban.com/people/zhenjianmig/" target="_blank" rel="noopener">针尖小站</a>；</li>
+<li>第三，是我们的播客微信群（请添加 soundcommune 为好友入群）。</li>
+</ul>
+<p>如果你有任何的想法、建议、评论，或是想成为我们播客团队的一部分，可以用以上任何一种方式联系我们。多味听觉馆，有了你们才算完整。</p>
+<p>我们的新节目除了开通与听众们的多个互动渠道，接下来想要尝试的最大改变还在于内容和形式。 经过一年多的探索，我们团队的三位主播——麦芒、小水母和鸽子——将要在接下来，打破原来各自的栏目结构，把所有的节目整合到目前的干货板块中。如果现在正在听这期录音的你，也关注了政正有词和政好读书，可能不会再收到这两档节目的更新了。你只需要在网易云音乐等常用平台关注一下政记干货大排档，就能收听到我们接下来新版的所有节目了。</p>
+<p>我们新节目的名称叫做多味听觉馆，没错，我们虽然是一档播客节目，但想要用声音打通你的五官，让你的耳朵也尝到各种新鲜的滋味，让有营养有价值的内容丰富你的头脑。</p>
+<p>改版之后的节目会以季度的形式出现，每一季都有一个中心主题。我们也特别希望正在听这个节目的你，能够加入我们的微信群。<strong>再重复一次——你可以添加微信号 soundcommune，告诉我们你感兴趣的话题，与我们互动，我们会尽可能全面地参考大家的建议，去精心设计每一季主题的呈现。</strong></p>
+<p>目前在设计中的第一季的主题，会围绕暑假团队成员的旅途来展现。七月中，鸽子将会南下前往泰国、马来西亚背包旅行，而小水母会北上去中国的西北地区做人类学的田野调查。在我们一个南下一个北上的旅途中，我们会用声音记录下有意思的人和事，为你的耳朵呈现原汁原味的现场声音和故事。</p>
+<p>就像之前说的，我们的团队成员分布在世界不同的角落，做着不同的工作，有各种新鲜、搞怪、好玩的故事，想要跟大家分享。在形形色色的故事里，我们想要运用人文社科的视角去发现问题，解读现象；并且，通过声音这个媒介，把彼时彼处的现场声音变成节目的一部分，把世界不同角落生活的人们的声音传送到你的耳朵里面，让你近距离地感受到那些不一样的世界。</p>
+<p>其它的主题，目前正在设计中，如下：</p>
+<ul>
+<li><strong>现代人病例分析，你中了几条</strong>：焦虑症、强迫症、拖延症、购物狂剁手党、自恋、囤积癖，等等；</li>
+<li><strong>谈什么都别跟我谈主义</strong>：特朗普主义、毛主义、自由主义、无政府主义、女权主义、威权主义、后现代主义，以及你能想到的其它主义；</li>
+<li><strong>小镇青年的快乐与悲伤</strong>：小镇民谣，城乡差距，乡愁是种什么愁，《乡土中国》，《梁庄》，《甲骨文》系列，等等；</li>
+<li><strong>第二性</strong>：我们想跟你聊聊，“女性不是天生的，而是被塑造形成的”；</li>
+<li><strong>学人志</strong>：为什么有些人可以从日常观察中得出具有更广泛意义的理论？为什么有些人的理论听上去非常酷炫，但却那么不接地气？普通人，就像你我，可以从这些与我们一样的生命中，获得什么样意外的启发？</li>
+</ul>
+<p>说了这么多，其实就是回到开头。有一句话叫做不忘初心。对的，我们还是坚持这一条：做原创的、走心的、有干货的内容，让知识变得有趣，让世界通过声音走进你的生活。我们的生活中有许多裂缝，需要去发现，去填补，而我们——“针尖｜多味听觉馆”——要做的，就是和你一起，去填补生活的裂缝，在裂缝中看到不一样的阳光和彩虹。</p>
+<p>——麦芒 Mango／鸽子 Goods／小水母 Jellyfish，2017 年 7 月</p>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>从 2016 年 3 月 31 日第一期节目到现在，在播客《政记干货大排档》中，不知不觉和大家一起分享了 42 期的节目。另外，我们还有其他四期节目：政常说话、政正有词、政好读书和政见讲座访谈。一路走来，我们收到了很多建议、鼓励、批评。对于未来，我们有自己的坚持，也有很多迷茫，想在这里跟大家分享。但最重要的是，我们对未来有一些想法，想要和大家分享，听听大家的建议。</p>
+<p>先跟大家聊聊一些坚持和迷茫吧。</p>
+<p>政见是一个以志愿者为主体、分散在世界各地的团队。我们在过去五年多一直坚持的，就是打破知识的高墙， 跟踪阅读全球学术界对中国政治和社会的最新研究，从中挑选出最具价值的部分呈现给大多数人。我们总是不断在尝试用更加多样的方法，声音，就是其中一样。</p>
+<p>一开始做播客的时候，其实想法特别简单，就是想通过声音的形式，和许许多多素未谋面的大家，分享原创的、走心的、有干货的内容。我们的主播并不是专业出身，一开始有许多问题，好在听众们都一一包容，还提了不少建议。在这里，真的是特别想要对现在正在听的你，说一声，谢谢。谢谢你花了生命中的这些时间，在路上、车站上、地铁中、或者其他生活的片段中，让我们的声音陪伴度过那些时光。</p>
+<p>为了让这些反馈能够更好地转化为高质量的内容，我们在接下来的过程中，打开了三条渠道。</p>
+<ul>
+<li>第一，是我们播客的公邮 <a href="mailto:&#x7a;&#104;&#x65;&#110;&#x6a;&#x69;&#97;&#110;&#x6d;&#105;&#103;&#64;&#x31;&#54;&#51;&#46;&#x63;&#111;&#109;" target="_blank" rel="noopener">&#x7a;&#104;&#x65;&#110;&#x6a;&#x69;&#97;&#110;&#x6d;&#105;&#103;&#64;&#x31;&#54;&#51;&#46;&#x63;&#111;&#109;</a>；</li>
+<li>第二，是豆瓣上的<a href="https://douban.com/people/zhenjianmig/" target="_blank" rel="noopener">针尖小站</a>；</li>
+<li>第三，是我们的播客微信群（请添加 soundcommune 为好友入群）。</li>
+</ul>
+<p>如果你有任何的想法、建议、评论，或是想成为我们播客团队的一部分，可以用以上任何一种方式联系我们。多味听觉馆，有了你们才算完整。</p>
+<p>我们的新节目除了开通与听众们的多个互动渠道，接下来想要尝试的最大改变还在于内容和形式。 经过一年多的探索，我们团队的三位主播——麦芒、小水母和鸽子——将要在接下来，打破原来各自的栏目结构，把所有的节目整合到目前的干货板块中。如果现在正在听这期录音的你，也关注了政正有词和政好读书，可能不会再收到这两档节目的更新了。你只需要在网易云音乐等常用平台关注一下政记干货大排档，就能收听到我们接下来新版的所有节目了。</p>
+<p>我们新节目的名称叫做多味听觉馆，没错，我们虽然是一档播客节目，但想要用声音打通你的五官，让你的耳朵也尝到各种新鲜的滋味，让有营养有价值的内容丰富你的头脑。</p>
+<p>改版之后的节目会以季度的形式出现，每一季都有一个中心主题。我们也特别希望正在听这个节目的你，能够加入我们的微信群。<strong>再重复一次——你可以添加微信号 soundcommune，告诉我们你感兴趣的话题，与我们互动，我们会尽可能全面地参考大家的建议，去精心设计每一季主题的呈现。</strong></p>
+<p>目前在设计中的第一季的主题，会围绕暑假团队成员的旅途来展现。七月中，鸽子将会南下前往泰国、马来西亚背包旅行，而小水母会北上去中国的西北地区做人类学的田野调查。在我们一个南下一个北上的旅途中，我们会用声音记录下有意思的人和事，为你的耳朵呈现原汁原味的现场声音和故事。</p>
+<p>就像之前说的，我们的团队成员分布在世界不同的角落，做着不同的工作，有各种新鲜、搞怪、好玩的故事，想要跟大家分享。在形形色色的故事里，我们想要运用人文社科的视角去发现问题，解读现象；并且，通过声音这个媒介，把彼时彼处的现场声音变成节目的一部分，把世界不同角落生活的人们的声音传送到你的耳朵里面，让你近距离地感受到那些不一样的世界。</p>
+<p>其它的主题，目前正在设计中，如下：</p>
+<ul>
+<li><strong>现代人病例分析，你中了几条</strong>：焦虑症、强迫症、拖延症、购物狂剁手党、自恋、囤积癖，等等；</li>
+<li><strong>谈什么都别跟我谈主义</strong>：特朗普主义、毛主义、自由主义、无政府主义、女权主义、威权主义、后现代主义，以及你能想到的其它主义；</li>
+<li><strong>小镇青年的快乐与悲伤</strong>：小镇民谣，城乡差距，乡愁是种什么愁，《乡土中国》，《梁庄》，《甲骨文》系列，等等；</li>
+<li><strong>第二性</strong>：我们想跟你聊聊，“女性不是天生的，而是被塑造形成的”；</li>
+<li><strong>学人志</strong>：为什么有些人可以从日常观察中得出具有更广泛意义的理论？为什么有些人的理论听上去非常酷炫，但却那么不接地气？普通人，就像你我，可以从这些与我们一样的生命中，获得什么样意外的启发？</li>
+</ul>
+<p>说了这么多，其实就是回到开头。有一句话叫做不忘初心。对的，我们还是坚持这一条：做原创的、走心的、有干货的内容，让知识变得有趣，让世界通过声音走进你的生活。我们的生活中有许多裂缝，需要去发现，去填补，而我们——“针尖｜多味听觉馆”——要做的，就是和你一起，去填补生活的裂缝，在裂缝中看到不一样的阳光和彩虹。</p>
+<p>——麦芒 Mango／鸽子 Goods／小水母 Jellyfish，2017 年 7 月</p>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>从 2016 年 3 月 31 日第一期节目到现在，在播客《政记干货大排档》中，不知不觉和大家一起分享了 42 期的节目。另外，我们还有其他四期节目：政常说话、政正有词、政好读书和政见讲座访谈。一路走来，我们收到了很多建议、鼓励、批评。对于未来，我们有自己的坚持，也有很多迷茫，想在这里跟大家分享。但最重要的是，我们对未来有一些想法，想要和大家分享，听听大家的建议。</p>
+<p>先跟大家聊聊一些坚持和迷茫吧。</p>
+<p>政见是一个以志愿者为主体、分散在世界各地的团队。我们在过去五年多一直坚持的，就是打破知识的高墙， 跟踪阅读全球学术界对中国政治和社会的最新研究，从中挑选出最具价值的部分呈现给大多数人。我们总是不断在尝试用更加多样的方法，声音，就是其中一样。</p>
+<p>一开始做播客的时候，其实想法特别简单，就是想通过声音的形式，和许许多多素未谋面的大家，分享原创的、走心的、有干货的内容。我们的主播并不是专业出身，一开始有许多问题，好在听众们都一一包容，还提了不少建议。在这里，真的是特别想要对现在正在听的你，说一声，谢谢。谢谢你花了生命中的这些时间，在路上、车站上、地铁中、或者其他生活的片段中，让我们的声音陪伴度过那些时光。</p>
+<p>为了让这些反馈能够更好地转化为高质量的内容，我们在接下来的过程中，打开了三条渠道。</p>
+<ul>
+<li>第一，是我们播客的公邮 <a href="mailto:&#x7a;&#104;&#x65;&#110;&#x6a;&#x69;&#97;&#110;&#x6d;&#105;&#103;&#64;&#x31;&#54;&#51;&#46;&#x63;&#111;&#109;" target="_blank" rel="noopener">&#x7a;&#104;&#x65;&#110;&#x6a;&#x69;&#97;&#110;&#x6d;&#105;&#103;&#64;&#x31;&#54;&#51;&#46;&#x63;&#111;&#109;</a>；</li>
+<li>第二，是豆瓣上的<a href="https://douban.com/people/zhenjianmig/" target="_blank" rel="noopener">针尖小站</a>；</li>
+<li>第三，是我们的播客微信群（请添加 soundcommune 为好友入群）。</li>
+</ul>
+<p>如果你有任何的想法、建议、评论，或是想成为我们播客团队的一部分，可以用以上任何一种方式联系我们。多味听觉馆，有了你们才算完整。</p>
+<p>我们的新节目除了开通与听众们的多个互动渠道，接下来想要尝试的最大改变还在于内容和形式。 经过一年多的探索，我们团队的三位主播——麦芒、小水母和鸽子——将要在接下来，打破原来各自的栏目结构，把所有的节目整合到目前的干货板块中。如果现在正在听这期录音的你，也关注了政正有词和政好读书，可能不会再收到这两档节目的更新了。你只需要在网易云音乐等常用平台关注一下政记干货大排档，就能收听到我们接下来新版的所有节目了。</p>
+<p>我们新节目的名称叫做多味听觉馆，没错，我们虽然是一档播客节目，但想要用声音打通你的五官，让你的耳朵也尝到各种新鲜的滋味，让有营养有价值的内容丰富你的头脑。</p>
+<p>改版之后的节目会以季度的形式出现，每一季都有一个中心主题。我们也特别希望正在听这个节目的你，能够加入我们的微信群。<strong>再重复一次——你可以添加微信号 soundcommune，告诉我们你感兴趣的话题，与我们互动，我们会尽可能全面地参考大家的建议，去精心设计每一季主题的呈现。</strong></p>
+<p>目前在设计中的第一季的主题，会围绕暑假团队成员的旅途来展现。七月中，鸽子将会南下前往泰国、马来西亚背包旅行，而小水母会北上去中国的西北地区做人类学的田野调查。在我们一个南下一个北上的旅途中，我们会用声音记录下有意思的人和事，为你的耳朵呈现原汁原味的现场声音和故事。</p>
+<p>就像之前说的，我们的团队成员分布在世界不同的角落，做着不同的工作，有各种新鲜、搞怪、好玩的故事，想要跟大家分享。在形形色色的故事里，我们想要运用人文社科的视角去发现问题，解读现象；并且，通过声音这个媒介，把彼时彼处的现场声音变成节目的一部分，把世界不同角落生活的人们的声音传送到你的耳朵里面，让你近距离地感受到那些不一样的世界。</p>
+<p>其它的主题，目前正在设计中，如下：</p>
+<ul>
+<li><strong>现代人病例分析，你中了几条</strong>：焦虑症、强迫症、拖延症、购物狂剁手党、自恋、囤积癖，等等；</li>
+<li><strong>谈什么都别跟我谈主义</strong>：特朗普主义、毛主义、自由主义、无政府主义、女权主义、威权主义、后现代主义，以及你能想到的其它主义；</li>
+<li><strong>小镇青年的快乐与悲伤</strong>：小镇民谣，城乡差距，乡愁是种什么愁，《乡土中国》，《梁庄》，《甲骨文》系列，等等；</li>
+<li><strong>第二性</strong>：我们想跟你聊聊，“女性不是天生的，而是被塑造形成的”；</li>
+<li><strong>学人志</strong>：为什么有些人可以从日常观察中得出具有更广泛意义的理论？为什么有些人的理论听上去非常酷炫，但却那么不接地气？普通人，就像你我，可以从这些与我们一样的生命中，获得什么样意外的启发？</li>
+</ul>
+<p>说了这么多，其实就是回到开头。有一句话叫做不忘初心。对的，我们还是坚持这一条：做原创的、走心的、有干货的内容，让知识变得有趣，让世界通过声音走进你的生活。我们的生活中有许多裂缝，需要去发现，去填补，而我们——“针尖｜多味听觉馆”——要做的，就是和你一起，去填补生活的裂缝，在裂缝中看到不一样的阳光和彩虹。</p>
+<p>——麦芒 Mango／鸽子 Goods／小水母 Jellyfish，2017 年 7 月</p>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.zjian.org/mig-teaser.mp3" type="audio/mpeg" />
+      <itunes:image href="http://cnpolitics.github.io/radio/assets/cover/cnpolitics-cover1400-v1.0.png" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#7：哈，没有想象的那么糟</title>
+      <itunes:subtitle>本期词汇：跨太平洋伙伴关系协定（TPP）</itunes:subtitle>
+      <itunes:author>Sonia</itunes:author>
+      <link>http://cnpolitics.github.io/radio/meme/ep7/</link>
+      <guid>http://cnpolitics.github.io/radio/meme/ep7/</guid>
+      <pubDate>Wed, 31 Aug 2016 19:50:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>在日常生活中，当你听到“癌症”“炸弹”这些词的时候，心里会是什么感觉？那听到“婴儿”“微笑”“有趣”这些词呢？认知心理学实验发现：人们对负面词汇的反应速度要显著快于正面词汇，而且人们更愿意阅读和相信负面消息。本期《政正有词》带你挖掘现象背后的秘密，以及聊聊相关的有趣故事。哈，社会学没有想象的那么复杂，生活更没有想象的那么糟。</p>
+<ul>
+<li>本期词汇：负面偏见（negative bias）</li>
+</ul>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>在日常生活中，当你听到“癌症”“炸弹”这些词的时候，心里会是什么感觉？那听到“婴儿”“微笑”“有趣”这些词呢？认知心理学实验发现：人们对负面词汇的反应速度要显著快于正面词汇，而且人们更愿意阅读和相信负面消息。本期《政正有词》带你挖掘现象背后的秘密，以及聊聊相关的有趣故事。哈，社会学没有想象的那么复杂，生活更没有想象的那么糟。</p>
+<ul>
+<li>本期词汇：负面偏见（negative bias）</li>
+</ul>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>在日常生活中，当你听到“癌症”“炸弹”这些词的时候，心里会是什么感觉？那听到“婴儿”“微笑”“有趣”这些词呢？认知心理学实验发现：人们对负面词汇的反应速度要显著快于正面词汇，而且人们更愿意阅读和相信负面消息。本期《政正有词》带你挖掘现象背后的秘密，以及聊聊相关的有趣故事。哈，社会学没有想象的那么复杂，生活更没有想象的那么糟。</p>
+<ul>
+<li>本期词汇：负面偏见（negative bias）</li>
+</ul>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/meme/audio/ep7.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#6：川普和希拉里都反对的，原来是它！</title>
+      <itunes:subtitle>本期词汇：跨太平洋伙伴关系协定（TPP）</itunes:subtitle>
+      <itunes:author>Sonia</itunes:author>
+      <link>http://cnpolitics.github.io/radio/meme/ep6/</link>
+      <guid>http://cnpolitics.github.io/radio/meme/ep6/</guid>
+      <pubDate>Tue, 02 Aug 2016 00:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>十年前，它酝酿在太平洋，直到今天也没有全面敲定。它和十余个国家紧密相连，但也与你息息相关，大到就出口就业，小到上街买药。美国总统候选人川普和希拉里都反对它，它到底是什么？</p>
+<ul>
+<li>本期词汇：跨太平洋伙伴关系协定（TPP）</li>
+</ul>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>十年前，它酝酿在太平洋，直到今天也没有全面敲定。它和十余个国家紧密相连，但也与你息息相关，大到就出口就业，小到上街买药。美国总统候选人川普和希拉里都反对它，它到底是什么？</p>
+<ul>
+<li>本期词汇：跨太平洋伙伴关系协定（TPP）</li>
+</ul>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>十年前，它酝酿在太平洋，直到今天也没有全面敲定。它和十余个国家紧密相连，但也与你息息相关，大到就出口就业，小到上街买药。美国总统候选人川普和希拉里都反对它，它到底是什么？</p>
+<ul>
+<li>本期词汇：跨太平洋伙伴关系协定（TPP）</li>
+</ul>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/meme/audio/ep6.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#换域名啦# 为保证正常收听，请务必阅读说明</title>
+      <itunes:subtitle>播客网址迁移</itunes:subtitle>
+      <itunes:author>CNPolitics</itunes:author>
+      <link>http://cnpolitics.github.io/radio/msg/msg1/</link>
+      <guid>http://cnpolitics.github.io/radio/msg/msg1/</guid>
+      <pubDate>Fri, 08 Jul 2016 23:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>为减少访问障碍，政见播客将在近期更换域名，部分听众可能会受影响，见谅。</p>
+<p>如果无法收到后续更新，请尝试在播客客户端内重新订阅以下地址：</p>
+<ul>
+<li>合集：<a href="http://cnpolitics.github.io/radio/feed.xml">http://cnpolitics.github.io/radio/feed.xml</a></li>
+<li>政正有词：<a href="http://cnpolitics.github.io/radio/meme/feed.xml">http://cnpolitics.github.io/radio/meme/feed.xml</a></li>
+<li>政好读书：<a href="http://cnpolitics.github.io/radio/read/feed.xml">http://cnpolitics.github.io/radio/read/feed.xml</a></li>
+<li>政常说话：<a href="http://cnpolitics.github.io/radio/talk/feed.xml">http://cnpolitics.github.io/radio/talk/feed.xml</a></li>
+<li>政记干货大排档：<a href="http://cnpolitics.github.io/radio/pub/feed.xml">http://cnpolitics.github.io/radio/pub/feed.xml</a></li>
+<li>讲座 &amp; 访谈：<a href="http://cnpolitics.github.io/radio/scholar/feed.xml">http://cnpolitics.github.io/radio/scholar/feed.xml</a></li>
+</ul>
+<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="noopener">另有更多信息</a>，可备参考。也欢迎致信 <a href="mailto:&#x77;&#101;&#98;&#109;&#97;&#x73;&#116;&#x65;&#114;&#x40;&#x63;&#110;&#x70;&#111;&#x6c;&#105;&#x74;&#x69;&#99;&#x73;&#x2e;&#111;&#114;&#x67;" target="_blank" rel="noopener">&#x77;&#101;&#98;&#109;&#97;&#x73;&#116;&#x65;&#114;&#x40;&#x63;&#110;&#x70;&#111;&#x6c;&#105;&#x74;&#x69;&#99;&#x73;&#x2e;&#111;&#114;&#x67;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="noopener">cnpolitics2011</a>，与我们交流。</p>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>为减少访问障碍，政见播客将在近期更换域名，部分听众可能会受影响，见谅。</p>
+<p>如果无法收到后续更新，请尝试在播客客户端内重新订阅以下地址：</p>
+<ul>
+<li>合集：<a href="http://cnpolitics.github.io/radio/feed.xml">http://cnpolitics.github.io/radio/feed.xml</a></li>
+<li>政正有词：<a href="http://cnpolitics.github.io/radio/meme/feed.xml">http://cnpolitics.github.io/radio/meme/feed.xml</a></li>
+<li>政好读书：<a href="http://cnpolitics.github.io/radio/read/feed.xml">http://cnpolitics.github.io/radio/read/feed.xml</a></li>
+<li>政常说话：<a href="http://cnpolitics.github.io/radio/talk/feed.xml">http://cnpolitics.github.io/radio/talk/feed.xml</a></li>
+<li>政记干货大排档：<a href="http://cnpolitics.github.io/radio/pub/feed.xml">http://cnpolitics.github.io/radio/pub/feed.xml</a></li>
+<li>讲座 &amp; 访谈：<a href="http://cnpolitics.github.io/radio/scholar/feed.xml">http://cnpolitics.github.io/radio/scholar/feed.xml</a></li>
+</ul>
+<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="noopener">另有更多信息</a>，可备参考。也欢迎致信 <a href="mailto:&#x77;&#101;&#98;&#109;&#97;&#x73;&#116;&#x65;&#114;&#x40;&#x63;&#110;&#x70;&#111;&#x6c;&#105;&#x74;&#x69;&#99;&#x73;&#x2e;&#111;&#114;&#x67;" target="_blank" rel="noopener">&#x77;&#101;&#98;&#109;&#97;&#x73;&#116;&#x65;&#114;&#x40;&#x63;&#110;&#x70;&#111;&#x6c;&#105;&#x74;&#x69;&#99;&#x73;&#x2e;&#111;&#114;&#x67;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="noopener">cnpolitics2011</a>，与我们交流。</p>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>为减少访问障碍，政见播客将在近期更换域名，部分听众可能会受影响，见谅。</p>
+<p>如果无法收到后续更新，请尝试在播客客户端内重新订阅以下地址：</p>
+<ul>
+<li>合集：<a href="http://cnpolitics.github.io/radio/feed.xml">http://cnpolitics.github.io/radio/feed.xml</a></li>
+<li>政正有词：<a href="http://cnpolitics.github.io/radio/meme/feed.xml">http://cnpolitics.github.io/radio/meme/feed.xml</a></li>
+<li>政好读书：<a href="http://cnpolitics.github.io/radio/read/feed.xml">http://cnpolitics.github.io/radio/read/feed.xml</a></li>
+<li>政常说话：<a href="http://cnpolitics.github.io/radio/talk/feed.xml">http://cnpolitics.github.io/radio/talk/feed.xml</a></li>
+<li>政记干货大排档：<a href="http://cnpolitics.github.io/radio/pub/feed.xml">http://cnpolitics.github.io/radio/pub/feed.xml</a></li>
+<li>讲座 &amp; 访谈：<a href="http://cnpolitics.github.io/radio/scholar/feed.xml">http://cnpolitics.github.io/radio/scholar/feed.xml</a></li>
+</ul>
+<p><a href="https://github.com/cnpolitics/radio/wiki/url-moving" target="_blank" rel="noopener">另有更多信息</a>，可备参考。也欢迎致信 <a href="mailto:&#x77;&#101;&#98;&#109;&#97;&#x73;&#116;&#x65;&#114;&#x40;&#x63;&#110;&#x70;&#111;&#x6c;&#105;&#x74;&#x69;&#99;&#x73;&#x2e;&#111;&#114;&#x67;" target="_blank" rel="noopener">&#x77;&#101;&#98;&#109;&#97;&#x73;&#116;&#x65;&#114;&#x40;&#x63;&#110;&#x70;&#111;&#x6c;&#105;&#x74;&#x69;&#99;&#x73;&#x2e;&#111;&#114;&#x67;</a> 或关注微信公众号 <a href="http://open.weixin.qq.com/qr/code/?username=cnpolitics2011" target="_blank" rel="noopener">cnpolitics2011</a>，与我们交流。</p>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/moving.mp3" type="audio/mpeg" />
+      <itunes:image href="http://cnpolitics.github.io/radio/assets/cover/cnpolitics-cover1400-v1.0.png" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#5：人人都想“搭便车”，怎么办？</title>
+      <itunes:subtitle>本期词汇：搭便车（free rider）</itunes:subtitle>
+      <itunes:author>Sonia</itunes:author>
+      <link>http://cnpolitics.github.io/radio/meme/ep5/</link>
+      <guid>http://cnpolitics.github.io/radio/meme/ep5/</guid>
+      <pubDate>Tue, 24 May 2016 20:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>生活中你有在路上搭过便车吗？今天，政正有词将从经济学角度介绍“搭便车”，从不同角度分析生活中的搭便车现象。 </p>
+<p>为什么电影《美人鱼》上映之后，美人鱼类电影会大量出现？为什么公司要有裁员制度？一个团队最合适的人数是多少？国防、治安为什么由政府来提供？</p>
+<ul>
+<li>本期词汇：搭便车（free rider）</li>
+</ul>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>生活中你有在路上搭过便车吗？今天，政正有词将从经济学角度介绍“搭便车”，从不同角度分析生活中的搭便车现象。 </p>
+<p>为什么电影《美人鱼》上映之后，美人鱼类电影会大量出现？为什么公司要有裁员制度？一个团队最合适的人数是多少？国防、治安为什么由政府来提供？</p>
+<ul>
+<li>本期词汇：搭便车（free rider）</li>
+</ul>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>生活中你有在路上搭过便车吗？今天，政正有词将从经济学角度介绍“搭便车”，从不同角度分析生活中的搭便车现象。 </p>
+<p>为什么电影《美人鱼》上映之后，美人鱼类电影会大量出现？为什么公司要有裁员制度？一个团队最合适的人数是多少？国防、治安为什么由政府来提供？</p>
+<ul>
+<li>本期词汇：搭便车（free rider）</li>
+</ul>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/meme/audio/ep5.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#4：你为什么沉迷《欢乐颂》？</title>
+      <itunes:subtitle>本期词汇：类社会互动（parasocial intreraction）</itunes:subtitle>
+      <itunes:author>Sonia</itunes:author>
+      <link>http://cnpolitics.github.io/radio/meme/ep4/</link>
+      <guid>http://cnpolitics.github.io/radio/meme/ep4/</guid>
+      <pubDate>Sat, 14 May 2016 20:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>为什么有那么多人沉迷《欢乐颂》？为什么那么多人乐此不疲地看直播吃饭？为什么TF粉煞有其事地争论 “TFBoys三人性格、优缺点及未来发展方向”？为什么B站上翻滚着 “xxx是我的你们都别抢”、“挡住我老公不让你们看”？……</p>
+<p>其实，这些现象都可以用一个词来解释：“类社会互动”。那么，什么是 “类社会互动”？互联网环境下，它又有什么新的含义？本期政正有词，我们一起来聊聊《欢乐颂》及其背后的奥秘。</p>
+<ul>
+<li>本期词汇：类社会互动（parasocial intreraction）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/television/" target="_blank" rel="noopener">http://cnpolitics.org/2016/03/television/</a></li>
+</ul>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>为什么有那么多人沉迷《欢乐颂》？为什么那么多人乐此不疲地看直播吃饭？为什么TF粉煞有其事地争论 “TFBoys三人性格、优缺点及未来发展方向”？为什么B站上翻滚着 “xxx是我的你们都别抢”、“挡住我老公不让你们看”？……</p>
+<p>其实，这些现象都可以用一个词来解释：“类社会互动”。那么，什么是 “类社会互动”？互联网环境下，它又有什么新的含义？本期政正有词，我们一起来聊聊《欢乐颂》及其背后的奥秘。</p>
+<ul>
+<li>本期词汇：类社会互动（parasocial intreraction）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/television/" target="_blank" rel="noopener">http://cnpolitics.org/2016/03/television/</a></li>
+</ul>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>为什么有那么多人沉迷《欢乐颂》？为什么那么多人乐此不疲地看直播吃饭？为什么TF粉煞有其事地争论 “TFBoys三人性格、优缺点及未来发展方向”？为什么B站上翻滚着 “xxx是我的你们都别抢”、“挡住我老公不让你们看”？……</p>
+<p>其实，这些现象都可以用一个词来解释：“类社会互动”。那么，什么是 “类社会互动”？互联网环境下，它又有什么新的含义？本期政正有词，我们一起来聊聊《欢乐颂》及其背后的奥秘。</p>
+<ul>
+<li>本期词汇：类社会互动（parasocial intreraction）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/television/" target="_blank" rel="noopener">http://cnpolitics.org/2016/03/television/</a></li>
+</ul>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/meme/audio/ep4.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#3：川普稳获总统提名，他的大杀器是……</title>
+      <itunes:subtitle>本期词汇：民粹主义（populism）</itunes:subtitle>
+      <itunes:author>Sonia</itunes:author>
+      <link>http://cnpolitics.github.io/radio/meme/ep3/</link>
+      <guid>http://cnpolitics.github.io/radio/meme/ep3/</guid>
+      <pubDate>Fri, 06 May 2016 20:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>本周二的美国印第安纳州共和党总统初选，川普再次成为赢家。随后，克鲁兹和卡西奇相继宣布退出竞选，这让川普稳获共和党总统候选人提名。</p>
+<p>本期《政正有词》解密川普手中的“大杀器”——民粹主义。什么是民粹主义？为什么总统候选人频繁使用它？如何打好 “民粹主义” 这张牌呢？</p>
+<ul>
+<li>本期词汇：民粹主义（populism）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/trump_super_tuesday/" target="_blank" rel="noopener">http://cnpolitics.org/2016/03/trump_super_tuesday/</a></li>
+</ul>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>本周二的美国印第安纳州共和党总统初选，川普再次成为赢家。随后，克鲁兹和卡西奇相继宣布退出竞选，这让川普稳获共和党总统候选人提名。</p>
+<p>本期《政正有词》解密川普手中的“大杀器”——民粹主义。什么是民粹主义？为什么总统候选人频繁使用它？如何打好 “民粹主义” 这张牌呢？</p>
+<ul>
+<li>本期词汇：民粹主义（populism）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/trump_super_tuesday/" target="_blank" rel="noopener">http://cnpolitics.org/2016/03/trump_super_tuesday/</a></li>
+</ul>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>本周二的美国印第安纳州共和党总统初选，川普再次成为赢家。随后，克鲁兹和卡西奇相继宣布退出竞选，这让川普稳获共和党总统候选人提名。</p>
+<p>本期《政正有词》解密川普手中的“大杀器”——民粹主义。什么是民粹主义？为什么总统候选人频繁使用它？如何打好 “民粹主义” 这张牌呢？</p>
+<ul>
+<li>本期词汇：民粹主义（populism）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/trump_super_tuesday/" target="_blank" rel="noopener">http://cnpolitics.org/2016/03/trump_super_tuesday/</a></li>
+</ul>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/meme/audio/ep3.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#2：黑客不黑：在暗处的仗义侠士</title>
+      <itunes:subtitle>本期词汇：hacker（黑客）</itunes:subtitle>
+      <itunes:author>Sonia</itunes:author>
+      <link>http://cnpolitics.github.io/radio/meme/ep2/</link>
+      <guid>http://cnpolitics.github.io/radio/meme/ep2/</guid>
+      <pubDate>Tue, 03 May 2016 20:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>说起 “黑客”，大多数人往往把他们和搞破坏联系在一起。黑客是由 hacker 音译过来，貌似是个不错的翻译。但 “黑” 这个字给黑客蒙上了一层负面的色彩，让我们错怪了他们。</p>
+<p>本期政正有词将为你介绍 “黑客” 的真相，让你了解他们在做什么，又有着怎么样的信念。</p>
+<ul>
+<li>本期词汇：hacker（黑客）</li>
+</ul>
+<p>节目最后推荐的书目是：</p>
+<ul>
+<li>Levy, Steven. Hackers: Heroes of the computer revolution. New York: Penguin Books, 2001.</li>
+<li>Coleman, Gabriella. Hacker, hoaxer, whistleblower, spy: The many faces of Anonymous. Verso Books, 2014.</li>
+</ul>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>说起 “黑客”，大多数人往往把他们和搞破坏联系在一起。黑客是由 hacker 音译过来，貌似是个不错的翻译。但 “黑” 这个字给黑客蒙上了一层负面的色彩，让我们错怪了他们。</p>
+<p>本期政正有词将为你介绍 “黑客” 的真相，让你了解他们在做什么，又有着怎么样的信念。</p>
+<ul>
+<li>本期词汇：hacker（黑客）</li>
+</ul>
+<p>节目最后推荐的书目是：</p>
+<ul>
+<li>Levy, Steven. Hackers: Heroes of the computer revolution. New York: Penguin Books, 2001.</li>
+<li>Coleman, Gabriella. Hacker, hoaxer, whistleblower, spy: The many faces of Anonymous. Verso Books, 2014.</li>
+</ul>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>说起 “黑客”，大多数人往往把他们和搞破坏联系在一起。黑客是由 hacker 音译过来，貌似是个不错的翻译。但 “黑” 这个字给黑客蒙上了一层负面的色彩，让我们错怪了他们。</p>
+<p>本期政正有词将为你介绍 “黑客” 的真相，让你了解他们在做什么，又有着怎么样的信念。</p>
+<ul>
+<li>本期词汇：hacker（黑客）</li>
+</ul>
+<p>节目最后推荐的书目是：</p>
+<ul>
+<li>Levy, Steven. Hackers: Heroes of the computer revolution. New York: Penguin Books, 2001.</li>
+<li>Coleman, Gabriella. Hacker, hoaxer, whistleblower, spy: The many faces of Anonymous. Verso Books, 2014.</li>
+</ul>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/meme/audio/ep2.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <title>#1：其实，互联网是属于机器人的</title>
+      <itunes:subtitle>本期词汇：bots（网络机器人）</itunes:subtitle>
+      <itunes:author>Sonia</itunes:author>
+      <link>http://cnpolitics.github.io/radio/meme/ep1/</link>
+      <guid>http://cnpolitics.github.io/radio/meme/ep1/</guid>
+      <pubDate>Wed, 20 Apr 2016 20:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <p>机器人长什么样？能有多厉害？它们可不仅属于科学家哦！其实机器人就在你身边，不信，你听！《政正有词》带你走近网络机器人Bots的世界！带你去找各种机器人伙伴！</p>
+<ul>
+<li>本期词汇：bots（网络机器人）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/social-bots/" target="_blank" rel="noopener">http://cnpolitics.org/2016/03/social-bots/</a></li>
+</ul>
+
+      ]]></description>
+      <itunes:summary><![CDATA[
+        <p>机器人长什么样？能有多厉害？它们可不仅属于科学家哦！其实机器人就在你身边，不信，你听！《政正有词》带你走近网络机器人Bots的世界！带你去找各种机器人伙伴！</p>
+<ul>
+<li>本期词汇：bots（网络机器人）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/social-bots/" target="_blank" rel="noopener">http://cnpolitics.org/2016/03/social-bots/</a></li>
+</ul>
+
+      ]]></itunes:summary>
+      
+      <content:encoded><![CDATA[
+        <p>机器人长什么样？能有多厉害？它们可不仅属于科学家哦！其实机器人就在你身边，不信，你听！《政正有词》带你走近网络机器人Bots的世界！带你去找各种机器人伙伴！</p>
+<ul>
+<li>本期词汇：bots（网络机器人）</li>
+<li>延伸阅读：<a href="http://cnpolitics.org/2016/03/social-bots/" target="_blank" rel="noopener">http://cnpolitics.org/2016/03/social-bots/</a></li>
+</ul>
+
+      ]]></content:encoded>
+      
+      <enclosure url="http://radio-static.cnpolitics.org/meme/audio/ep1.mp3" type="audio/mpeg" />
+      <itunes:image href="http://radio.cnpolitics.org/assets/cover/meme-cover1400-v1.0.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+  </channel>
+</rss>
